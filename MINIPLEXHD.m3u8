@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://sonyiptv.net:8080/prasad123/00000/147758
+http://195.26.87.217/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
